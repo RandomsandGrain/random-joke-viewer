@@ -1,9 +1,12 @@
-My Project gives you a joke from an API.
+# Random Joke Viewer
 
-Joke, Loading, Error State 
+## Live Demo
+[Click here to view the website](https://random-joke-viewer-97elgxz02-esteban-jennings-projects.vercel.app)
 
-try{} catch{} finally{} used to update states
+### Description
+This project fetches a joke from an API and displays it to the user.
 
-clean useEffect, used a variable to define the apiCall
-
-Child component to display the app from its prop.value
+- Shows elements in ternary operator based on Joke, Loading, and Error states.
+- Uses try { } catch { } finally { } to handle state updates.
+- Clean useEffect with a variable to define the API call.
+- Has a Child Component to display the joke prop.value.
