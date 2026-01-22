@@ -9,6 +9,7 @@ const [error, setError] = useState(false)
 
 const apiCall = async () => {
   setLoading(true)
+  setError(false)
   try{
      const result = await fetch(API_JOKE_CALL);
   const data = await result.json()
