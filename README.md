@@ -1,7 +1,7 @@
 # Random Joke Viewer
 
 ## Live Demo
-[Click here to view the website](https://random-joke-viewer-97elgxz02-esteban-jennings-projects.vercel.app)
+[Click here to view the website](https://random-joke-viewer.vercel.app/)
 
 ### Description
 This project fetches a joke from an API and displays it to the user.
